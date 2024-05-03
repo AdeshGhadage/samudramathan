@@ -1,4 +1,4 @@
-# Samudra Manthan Tech Fest Website
+# Samudramanthan Tech Fest Website
 
 This project is a website designed and developed for the annual technical fest organized by the Department of Ocean Engineering and Naval Architecture at the Indian Institute of Technology, Kharagpur.
 
