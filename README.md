@@ -35,7 +35,7 @@ This project is a website designed and developed for the annual technical fest o
    
 4. Start the server:
    ```bash
-   npm start server.js
+   npm start
     ```
 
 ### FrontEnd Setup
@@ -52,13 +52,13 @@ This project is a website designed and developed for the annual technical fest o
     ```   
 3. Start the server:
    ```bash
-   npm start app.js
+   npm start
     ```
 
 
 ## Usage
 
-1. click [here]() to watch demo video of this project.
+1. click [here](https://youtu.be/qNULu-YWOAw) to watch demo video of this project.
 2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
 <a name="features"> </a>
