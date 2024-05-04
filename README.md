@@ -15,7 +15,7 @@ This project is a website designed and developed for the annual technical fest o
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/samudra-manthan-website.git
+   git clone https://github.com/AdeshGhadage/samudramathan.git
     ```
 
 ### Backend Setup
